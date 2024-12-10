@@ -1,5 +1,5 @@
 define(function() {
     return {
-        content: '<script>alert("XSS Vulnerability Exploited!")</script>'
+        content: '<script>alert("Injected XSS Attack!")</script>'
     };
 });

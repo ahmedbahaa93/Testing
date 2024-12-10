@@ -1,7 +1,7 @@
 require.config({
     baseUrl: '/',
     paths: {
-        vulnerableModule: 'vulnerableModule'
+        malicious: 'malicious' // Define the malicious module path
     }
 });
 
